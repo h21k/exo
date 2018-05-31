@@ -16,7 +16,9 @@ Find Bob the happy Exoplanet!
 
 ## Folder Structure
 
-- Introduction: 
+- Introduction:<br>
+- The Light Curve:<br>
+- Tools & Repos:<br>
 
 
 
