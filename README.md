@@ -19,6 +19,7 @@ Find Bob the happy Exoplanet!
 - Introduction:<br>
 - The Light Curve:<br>
 - Tools & Repos:<br>
+- jupyter notebooks:<br>
 
 
 
