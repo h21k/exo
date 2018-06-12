@@ -13,6 +13,7 @@ Find Bob the happy Exoplanet!
 [Topcat Tool for FITS files](http://www.star.bris.ac.uk/~mbt/topcat/)<br>
 [What are FITS files?](https://en.wikipedia.org/wiki/FITS)<br>
 [Mikulski Archive for Space Telescopes](https://archive.stsci.edu/k2/hlsp/k2sff/search.php)
+[Planetary Spectrum Generator @ NASA Goddard](https://psg.gsfc.nasa.gov/)
 
 ## Folder Structure
 
