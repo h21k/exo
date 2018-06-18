@@ -14,6 +14,9 @@ Find Bob the happy Exoplanet!
 [What are FITS files?](https://en.wikipedia.org/wiki/FITS)<br>
 [Mikulski Archive for Space Telescopes](https://archive.stsci.edu/k2/hlsp/k2sff/search.php)
 [Planetary Spectrum Generator @ NASA Goddard](https://psg.gsfc.nasa.gov/)
+[The MUSCLES Treasury Survey
+Measurements of the Ultraviolet Spectral Characteristics 
+of Low-mass Exoplanetary Systems](http://cos.colorado.edu/~kevinf/muscles.html)
 
 ## Folder Structure
 
